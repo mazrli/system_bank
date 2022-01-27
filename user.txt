@@ -1,0 +1,3 @@
+username = "123"
+CardPassword = "123"
+('aziz', 'azasd', 'adsf', 123123, 10054, True, 3213.0, 'az')('aziz', 'asd', 'sdf', 123, 10042, True, 324.0, 'az')('aziz', 'az', '', 123432314, 10058, True, 12334.0, 'aaz')
